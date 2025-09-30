@@ -29,7 +29,7 @@ Power Query → Data extraction, transformation, and cleaning
 HR Analytics.pbix → Main Power BI report file
 
 📸 Dashboard Preview
-
+[HR Analytics Dashboard](https://github.com/harshitm92/HR-Analytics-Power-BI-project/blob/main/dashboard-preview.png.png)
 
 
 🔑 Key Features
